@@ -1,0 +1,82 @@
+@import url("https://fonts.googleapis.com/css2?family=Karla:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;1,200;1,300;1,400;1,500;1,600;1,700;1,800&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Rubik:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@700&display=swap");
+body {
+  font-family: "Karla", sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  color: #6e819e;
+}
+body.style-2 {
+  color: #7e889b;
+  font-family: "Rubik", sans-serif;
+}
+
+p {
+  line-height: 1.85;
+}
+
+label {
+  font-size: 16px;
+  line-height: 28px;
+  text-transform: uppercase;
+}
+
+a {
+  font-size: 16px;
+  font-family: "Karla", sans-serif;
+  font-weight: 400;
+  text-decoration: none;
+  transition: all 0.3s;
+}
+
+body.style-2 a {
+  font-family: "Rubik", sans-serif;
+}
+
+table th,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Karla", sans-serif;
+  font-weight: 700;
+  color: #12124d;
+  letter-spacing: -1px;
+}
+body.style-2 table th,
+body.style-2 h1,
+body.style-2 h2,
+body.style-2 h3,
+body.style-2 h4,
+body.style-2 h5,
+body.style-2 h6 {
+  font-family: "Barlow Condensed", sans-serif;
+  font-weight: 700;
+  color: #222222;
+  letter-spacing: -1px;
+}
+
+h1 {
+  font-size: 80px;
+}
+h2 {
+  font-size: 34px;
+}
+h3 {
+  font-size: 28px;
+}
+
+h4 {
+  font-size: 26px;
+}
+
+h5 {
+  font-size: 18px;
+}
+
+h6 {
+  font-size: 16px;
+}
